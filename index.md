@@ -24,7 +24,6 @@ Thanks to their ability to learn data distributions without requiring paired dat
       year={2021},
       booktitle={Domain Adaptation and Representation Transfer},
 }
-
 ```
 
 ## Don't miss any update!
