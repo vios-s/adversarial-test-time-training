@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training
 ---
 
 <img src="{{site.baseurl}}/images/banner.png">
@@ -18,11 +18,23 @@ Thanks to their ability to learn data distributions without requiring paired dat
 
 ## Cite us:
 ```
-@incollection{valvano2021selfsup,
-      title={Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training}, 
-      author={Gabriele Valvano and Andrea Leo and Sotirios A. Tsaftaris},
-      year={2021},
-      booktitle={Domain Adaptation and Representation Transfer},
+@incollection{valvano2021stop,
+  title={Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training},
+  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
+  booktitle={Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health},
+  pages={68--78},
+  year={2021},
+  publisher={Springer}
+}
+```
+
+An extended version of the manuscript can be found [here](https://arxiv.org/abs/2108.11926), and cited as:
+```
+@article{valvano2021re,
+  title={Re-using Adversarial Mask Discriminators for Test-time Training under Distribution Shifts},
+  author={Valvano, Gabriele and Leo, Andrea and Tsaftaris, Sotirios A},
+  journal={arXiv preprint arXiv:2108.11926},
+  year={2021}
 }
 ```
 
