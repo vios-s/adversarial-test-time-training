@@ -1,14 +1,16 @@
-#  Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training
+#  Adversarial Test-Time Training
 
-Project page of the paper: 
+Project page of the papers: 
 
 > Valvano G., Leo A. and Tsaftaris S. A. (DART, 2021), *Stop Throwing Away Discriminators! Re-using Adversaries for Test-Time Training*.  
+
+> Valvano G., Leo A. and Tsaftaris S. A. (ArXiv, 2021), *Re-using Adversarial Mask Discriminators for Test-time Training under Distribution Shifts*.  
 
 # Resources:
 
 - [**project page**](https://vios-s.github.io/adversarial-test-time-training/)
 
-- [**paper**](https://arxiv.org/abs/2108.12280)
+- [**DART paper**](https://arxiv.org/abs/2108.12280), and [**extended version**](https://arxiv.org/abs/2108.11926)
 
 - [**code**](https://github.com/gvalvano/adversarial-test-time-training)
 
@@ -24,8 +26,7 @@ Project page of the paper:
   publisher={Springer}
 }
 ```
-
-An extended version of the manuscript can be found [here](https://arxiv.org/abs/2108.11926), and cited as:
+and the extended manuscript:
 ```
 @article{valvano2021re,
   title={Re-using Adversarial Mask Discriminators for Test-time Training under Distribution Shifts},
