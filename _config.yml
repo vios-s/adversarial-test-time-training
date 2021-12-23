@@ -4,7 +4,8 @@ description: Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris
 google_analytics: G-E5GZ5ZFGL0
 show_downloads: true
 button_home_url: index
-button_paper_url: https://arxiv.org/abs/2108.12280
+button_paper_dart_url: https://arxiv.org/abs/2108.12280
+button_paper_ext_url: https://arxiv.org/abs/2108.11926
 button_code_url: https://github.com/gvalvano/adversarial-test-time-training
 button_contacts_url: contacts
 banner: https://github.com/vios-s/adversarial-test-time-training/blob/main/images/banner.pdf
